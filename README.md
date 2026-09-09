@@ -2,8 +2,6 @@
 
 > A modern, production-ready implementation showcasing expertise in building scalable, intelligent applications with Large Language Models (LLMs).
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📖 Overview
 
@@ -242,31 +240,7 @@ See [requirements.txt](requirements.txt) for the complete list.
 **Issue**: "Out of context window"
 - **Solution**: Implement memory management or reduce input size
 
-For more help, see [TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md)
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
 
-**Bhakti1998**
-- GitHub: [@Bhakti1998](https://github.com/Bhakti1998)
-
-## 🙏 Acknowledgments
-
-- LangChain community and documentation
-- OpenAI and other LLM providers
-- Contributors and maintainers
-
-## 📞 Support & Feedback
-
-- **Issues**: Report bugs or feature requests on [GitHub Issues](https://github.com/Bhakti1998/langchainupdated/issues)
-- **Discussions**: Join community discussions on [GitHub Discussions](https://github.com/Bhakti1998/langchainupdated/discussions)
-- **Email**: Contact via GitHub profile
-
----
-
-**Made with ❤️ by Bhakti1998**
-
-⭐ If you find this project helpful, please consider giving it a star!
