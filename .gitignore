@@ -13,3 +13,5 @@ PROJECT+1+RESOURCES
 AWS*
 commands*
 DATA*
+.env*
+.env.*
